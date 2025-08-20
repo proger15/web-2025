@@ -16,11 +16,11 @@
 
 
 
-<a href="?pagina=teste2">CU teste2</a>
+<a href="?pagina=teste2">teste2</a>
 
 
 
-<a href="?pagina=inserir_aluno">TESTE</a>
+<a href="?pagina=inserir_aluno">teste</a>
 
 <table style="border: 1px solid #000; width:100% " >
 	<thead>
